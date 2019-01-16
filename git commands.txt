@@ -1,3 +1,9 @@
 git init 
 git remote add origin <repo's link>
-git pull origin 'branche's name '
+git pull origin 'branche's name' "ygeb el7agat mn elserver to local"
+
+git add <file name>  to put file in stage to able to commit it
+
+git commit -m 'message'
+
+git fetch origin master 'check if changes on server'
