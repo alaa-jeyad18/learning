@@ -1,0 +1,3 @@
+git init 
+git remote add origin <repo's link>
+git pull origin 'branche's name '
